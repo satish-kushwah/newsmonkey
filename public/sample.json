@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/kris-holt",
+            "title": "Google is making it easier to find and support Asian-owned businesses | Engadget",
+            "description": "An \"Asian-owned\" label can now be displayed on Maps and Search..",
+            "url": "https://www.engadget.com/google-search-maps-asian-owned-business-label-130046076.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/02bb6910-129f-11ed-bb7d-d9d1956b97d4",
+            "publishedAt": "2022-08-03T13:07:24.0949725Z",
+            "content": "Google is making it easier for people to find and support Asian-owned businesses in their communities. Starting today, US merchants can now add an \"Asian-owned\" label to a verified Google business pr… [+619 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Google now lets merchants add an ‘Asian-owned’ label to their profiles on Maps and Search",
+            "description": "Google announced today that it’s adding a new label on Maps and Search that will allow people to identify their business as being Asian-owned. The new label is now available to merchants in the United States with a verified business profile on Google. Once a …",
+            "url": "https://techcrunch.com/2022/08/03/google-asian-owned-label-profiles-maps-search/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-02-at-3.26.56-PM.png?w=594",
+            "publishedAt": "2022-08-03T13:00:38Z",
+            "content": "Google announced today that its adding a new label on Maps and Search that will allow people to identify their business as being Asian-owned. The new label is now available to merchants in the United… [+1766 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jasmine Hicks",
+            "title": "Google adds a tag to identify Asian-owned businesses in Search and Maps",
+            "description": "Google has added a label in Google search and Google Maps to mark self-identifying Asian-owned businesses. In recent years Google has added tags for women, LGBTQ-plus, Black, and Latino business owners.",
+            "url": "https://www.theverge.com/2022/8/3/23287782/google-asian-owned-businesses-maps-search",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/prkksMFWf7Wa58mfT1Y0FMhUGF0=/12x0:1685x876/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23917306/Screen_Shot_2022_08_02_at_10.19.22_AM.png",
+            "publishedAt": "2022-08-03T13:00:00Z",
+            "content": "Similar identity labels have been added for other groups\r\nImage: Google\r\nGoogle is adding a label to help searchers easily find businesses that self-identify as Asian-owned. Googles addition of busin… [+1252 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Lernen von Google: Diese einfache Gehaltsregel haben deutsche Unternehmen noch nicht verstanden",
+            "description": "Deutschland fehlen Fachkräfte. Ein Arbeitsmarktexperte erklärt, worauf es beim Halten von Talenten in diesen Zeiten ankommt.",
+            "url": "https://www.welt.de/wirtschaft/article240247243/Gehaelter-Was-Deutschlands-Unternehmen-von-Google-Amazon-Co-lernen-muessen.html",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2020/06/gehalt-silicon-valley-scaled.jpg",
+            "publishedAt": "2022-08-03T09:07:27+00:00",
+            "content": "Lernen von Google: Diese einfache Gehaltsregel haben deutsche Unternehmen noch nicht verstanden\r\nDeutschland fehlen Fachkräfte. Ein Arbeitsmarktexperte erklärt, worauf es beim Halten von Talenten in … [+7537 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Sophie Morris",
+            "title": "Tory leadership ballot papers delayed due to security fears",
+            "description": "Tory leadership ballot papers delayed due to security fears  Sky NewsView Full coverage on Google News",
+            "url": "https://news.sky.com/story/tory-leadership-vote-delayed-due-to-security-fears-12664467",
+            "urlToImage": "https://e3.365dm.com/22/08/1600x900/skynews-conservative-party_5853271.jpg?20220803084440",
+            "publishedAt": "2022-08-03T08:57:54+00:00",
+            "content": "Security fears have led to delays in Conservative members receiving their postal ballots for the party's leadership contest. \r\nIn a letter sent to Tory members - seen by Sky News - the Conservative P… [+6890 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Apple stops product sales in Russia, adding to pressure from shippers, car makers",
+            "description": "American big brands including Apple, Google, Ford and Harley-Davidson on Tuesday stopped sales and distanced themselves from Russia because of the invasion of Ukraine, joining a growing list of companies from shippers to car makers to energy companies shunnin…",
+            "url": "https://www.reuters.com/world/uk/western-companies-pullout-russia-expected-accelerate-2022-03-01/",
+            "urlToImage": "https://www.reuters.com/resizer/GxIPeP8CVW_362CGS3271BnJNWo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UW4ELYYYRMJDCJTZ6HNEXCZJE.jpg",
+            "publishedAt": "2022-03-01T22:36:13Z",
+            "content": "March 1 (Reuters) - American big brands including Apple, Google, Ford and Harley-Davidson on Tuesday stopped sales and distanced themselves from Russia because of the invasion of Ukraine, joining a g… [+6542 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Sara Morrison",
+            "title": "Google pushes its Chrome cookie ban back again, to 2024",
+            "description": "Google needs more time to figure out how to track you.",
+            "url": "https://www.vox.com/recode/2021/6/24/22548700/google-cookies-ban-delay-floc-tracking",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ThhprrP3fdGMnTN9hpkZlHOgaYU=/0x525:5795x3559/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22679455/GettyImages_1201955462.jpg",
+            "publishedAt": "2021-06-24T18:10:00Z",
+            "content": "Google is once again delaying its big plans to stop its Chrome browser from tracking you. Its long promised move to block third-party cookies will now begin in the second half of 2024 at least. This … [+4372 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Karissa Bell",
+            "title": "Amazon challenges Google with smaller, cheaper Echo Show",
+            "description": "Amazon just ratcheted up the pressure on Google.",
+            "url": "https://mashable.com/article/amazon-echo-show-5/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F05%252F29%252F4d%252Fd91b4bcb383142c1b52ffbac16165110.01151.jpg%252F1200x630.jpg?signature=R9UT45RZefZ53JiuK0HJ5OQNCoU=",
+            "publishedAt": "2019-05-29T13:00:00Z",
+            "content": "Amazon just ratcheted up the pressure on Google in a major way.\r\nThe company just unveiled its new Echo Show 5, a smaller and cheaper version of its Echo Show speaker. The $89.99 device is available … [+2026 chars]"
+        }
+    ]
+}
