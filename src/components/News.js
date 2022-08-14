@@ -32,11 +32,8 @@ export class News extends Component {
         this.props.setProgress(80);
         this.setState({ articles: parsedData.articles, totalResults: parsedData.totalResults, loading: false })
         this.props.setProgress(100);
-        // console.log(parsedData.totalResults);
     }
     fetchMoreData = async () => {
-        // a fake async api call like which sends
-        // 20 more records in 1.5 secs
         let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=f02319e73a294795ab492d73bacfb14c&pageSize=${this.props.pageSize}&page=${this.state.page + 1}`;
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -70,7 +67,6 @@ export class News extends Component {
                     // inverse={true} //
                     hasMore={this.state.articles.length < this.state.totalResults}
                     loader={<Spinners />}
-                // scrollableTarget="scrollableDiv"
                 >
                     {/* {this.state.loading && <Spinners />} */}
                     <div className='container'>
