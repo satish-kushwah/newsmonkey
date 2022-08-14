@@ -8,7 +8,6 @@ export class NewsItem extends Component {
         let { title, desc, imageUrl, url, author, timeDate, source } = this.props;
         return (
             <div className='my-3'>
-                {/* <span class="badge rounded-pill text-bg-primary">Primary</span> */}
                 <div className="card">
                     <div className="d-flex">
                         <span class="badge text-bg-danger" style={{ position: 'absolute' }}>{source}</span>
