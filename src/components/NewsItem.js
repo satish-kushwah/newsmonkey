@@ -10,7 +10,10 @@ export class NewsItem extends Component {
             <div className='my-3'>
                 {/* <span class="badge rounded-pill text-bg-primary">Primary</span> */}
                 <div className="card">
-                    <img src={imageUrl} className="card-img-top" alt="..." />
+                    <div className="d-flex">
+                        <span class="badge text-bg-danger" style={{ position: 'absolute' }}>{source}</span>
+                        <img src={imageUrl} className="card-img-top" alt="..." />
+                    </div>
                     <div className="card-body">
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text">{desc}</p>
