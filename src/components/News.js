@@ -42,21 +42,21 @@ export class News extends Component {
             page: this.state.page + 1
         });
     };
-    handlePrev = async () => {
-        this.setState({ loading: true })
-        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=155f7488ef7c4b548d2b808c762b5a4e&pageSize=${this.props.pageSize}&page=${this.state.page - 1}`;
-        let data = await fetch(url);
-        let parsedData = await data.json();
-        this.setState({ articles: parsedData.articles, page: this.state.page - 1, loading: false })
+    // handlePrev = async () => {
+    //     this.setState({ loading: true })
+    //     let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=155f7488ef7c4b548d2b808c762b5a4e&pageSize=${this.props.pageSize}&page=${this.state.page - 1}`;
+    //     let data = await fetch(url);
+    //     let parsedData = await data.json();
+    //     this.setState({ articles: parsedData.articles, page: this.state.page - 1, loading: false })
 
-    }
-    handleNext = async () => {
-        this.setState({ loading: true })
-        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=155f7488ef7c4b548d2b808c762b5a4e&pageSize=${this.props.pageSize}&page=${this.state.page + 1}`;
-        let data = await fetch(url);
-        let parsedData = await data.json();
-        this.setState({ articles: parsedData.articles, page: this.state.page + 1, loading: false })
-    }
+    // }
+    // handleNext = async () => {
+    //     this.setState({ loading: true })
+    //     let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=155f7488ef7c4b548d2b808c762b5a4e&pageSize=${this.props.pageSize}&page=${this.state.page + 1}`;
+    //     let data = await fetch(url);
+    //     let parsedData = await data.json();
+    //     this.setState({ articles: parsedData.articles, page: this.state.page + 1, loading: false })
+    // }
     render() {
         return (
             <div className='container my-3 '>
