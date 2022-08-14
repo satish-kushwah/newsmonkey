@@ -1,5 +1,5 @@
-import { getByTitle } from '@testing-library/react'
-import PropTypes from 'prop-types'
+// import { getByTitle } from '@testing-library/react'
+// import PropTypes from 'prop-types'
 import React, { Component } from 'react'
 import NewsItem from './NewsItem'
 import Spinners from './Spinners'
@@ -11,7 +11,7 @@ export class News extends Component {
         category: 'general',
         pageSize: 9
     }
-    static propTypes = {}
+    // static propTypes = {}
 
     constructor(props) {
         super(props);
