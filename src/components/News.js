@@ -9,7 +9,7 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 export class News extends Component {
     static defaultProps = {
         category: 'general',
-        pageSize: 12
+        pageSize: 9
     }
     static propTypes = {}
 
