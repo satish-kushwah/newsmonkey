@@ -5,7 +5,7 @@ export class NewsItem extends Component {
     // static propTypes = {}
 
     render() {
-        let { title, desc, imageUrl, url, author, timeDate } = this.props;
+        let { title, desc, imageUrl, url, author, timeDate, source } = this.props;
         return (
             <div className='my-3'>
                 {/* <span class="badge rounded-pill text-bg-primary">Primary</span> */}
